@@ -8,5 +8,9 @@ https://forums.freebsd.org/threads/file-manager-for-freebsd.9307/
 - worker
 
 
-speak in okular to read PDF file
-# yay espeak qtspeech speech-dispatcher pulseaudio 
+#speak in okular to read PDF file
+  - # #yay espeak qtspeech speech-dispatcher pulseaudio 
+
+
+### screencapture
+  - # # spectacle >>>> kolour
